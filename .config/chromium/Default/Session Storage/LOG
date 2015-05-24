@@ -1,0 +1,12 @@
+2015/05/24-15:58:03.042 17713 Reusing MANIFEST /home/daniel/.config/chromium/Default/Session Storage/MANIFEST-000001
+2015/05/24-15:58:03.042 17713 Recovering log #4
+2015/05/24-15:58:03.584 17713 Reusing old log /home/daniel/.config/chromium/Default/Session Storage/000004.log 
+2015/05/24-17:45:05.297 19095 Level-0 table #8: started
+2015/05/24-17:45:05.435 19095 Level-0 table #8: 1309287 bytes OK
+2015/05/24-17:45:05.491 19095 Delete type=0 #4
+2015/05/24-18:34:25.894 19095 Compacting 1@1 + 1@2 files
+2015/05/24-18:34:26.249 19095 Generated table #9: 177 keys, 961506 bytes
+2015/05/24-18:34:26.249 19095 Compacted 1@1 + 1@2 files => 961506 bytes
+2015/05/24-18:34:26.313 19095 compacted to: files[ 0 0 1 0 0 0 0 ]
+2015/05/24-18:34:26.313 19095 Delete type=2 #5
+2015/05/24-18:34:26.329 19095 Delete type=2 #8

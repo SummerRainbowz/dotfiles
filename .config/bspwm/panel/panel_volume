@@ -1,0 +1,7 @@
+#!/bin/bash
+source $(dirname $0)/config
+
+VOLUME=$(awk -F"[][]" '/dB/ { print $2 }' <(amixer sget Master))
+output="%{F$COLOR_ICON}%{F-}$VOLUME"
+
+echo $output $DIV;
